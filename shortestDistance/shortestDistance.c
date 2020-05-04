@@ -24,10 +24,7 @@ void bfs(Graph g, int src, int dest, int visited[1000]) {
 					return;
 				}
 			}
-
-
 		}
-
 	}
 	QueueFree(q);
 }
